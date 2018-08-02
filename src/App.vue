@@ -19,11 +19,11 @@ export default {
         projects: 'Project A',
         done: false,
       }, {
-        title: 'Todo AA',
+        title: 'Todo AB',
         projects: 'Project A',
         done: false,
       }, {
-        title: 'Todo AA',
+        title: 'Todo AC',
         projects: 'Project A',
         done: false,
       }],
